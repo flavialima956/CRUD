@@ -1,6 +1,6 @@
 <h1>CRUD usando PHP , PDO e bootstrap </h1>
 
-Sistema de cadastro de clientes com os campos nome , sobrenome e cidade.
+Sistema de cadastro de usuários com os campos nome , sobrenome e cidade.
 O projeto contém a seguinte estrutura:
 
   - A pasta classes contendo os arquivos Conexao.php e Usuarios.php.
